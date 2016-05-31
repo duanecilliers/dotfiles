@@ -102,5 +102,16 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# Additions
+brew install rbenv
+brew install hub
+brew install TomAnthony/brews/itermocil
+
+# Install Cask to manage OSX Applications
+brew tap caskroom/homebrew-cask
+brew install brew-cask
+# Install Applications I use
+brew cask install caffeine dropbox iterm2 sequel-pro the-unarchiver virtualbox vagrant vlc google-chrome transmission dash divvy alfred disk-inventory-x chitchat codekit gitkraken rescuetime slack sublime-text wmail 1password
+
 # Remove outdated versions from the cellar.
 brew cleanup
