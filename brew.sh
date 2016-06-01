@@ -111,7 +111,7 @@ brew install TomAnthony/brews/itermocil
 brew tap caskroom/homebrew-cask
 brew install brew-cask
 # Install Applications I use
-brew cask install caffeine dropbox iterm2 sequel-pro the-unarchiver virtualbox vagrant vlc google-chrome transmission dash divvy alfred disk-inventory-x chitchat codekit gitkraken rescuetime slack sublime-text wmail 1password
+brew cask install caffeine dropbox iterm2 sequel-pro the-unarchiver virtualbox vagrant vlc google-chrome transmission dash divvy alfred disk-inventory-x chitchat codekit gitkraken rescuetime slack sublime-text wmail 1password node
 
 # Remove outdated versions from the cellar.
 brew cleanup
